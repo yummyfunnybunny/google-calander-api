@@ -1,0 +1,23 @@
+{
+  "name": "google-calander-api",
+  "version": "1.0.0",
+  "description": "tutorial for using the google calander API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yummyfunnybunny/google-calander-api.git"
+  },
+  "author": "Jake Nichols",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yummyfunnybunny/google-calander-api/issues"
+  },
+  "homepage": "https://github.com/yummyfunnybunny/google-calander-api#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "googleapis": "^80.1.0"
+  }
+}
